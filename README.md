@@ -1,2 +1,12 @@
 # Git-Assignment-1
-Assignment regarding git training.
+- **Create a New Repository.**
+- **Create two files *index.txt* and *home.txt.***
+- **Create a *Git DVCS Environment* and Perform Various Tasks :**
+    - ***ADD & Commit* in *Master Branch.***    
+    - ***PUSH* in *Central Repo.***
+    - ***PULL* from *Central Expo.***
+- **Create a Branch Name *"GlobalBranch"*** :
+    - **And add some code and Final *ADD* & *Commit* in local repo.**
+    - **Finally Merge the branch in *'Master'* Branch.**
+- **Create Another file in master and perform :**
+    - ***RESET, REVERT, STASHING, CLONE.***
